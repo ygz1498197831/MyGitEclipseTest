@@ -10,4 +10,7 @@ public class Person {
 	public void aa(){
 		
 	}
+	public void bb(){
+		
+	}
 }
