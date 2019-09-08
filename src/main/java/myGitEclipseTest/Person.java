@@ -7,4 +7,7 @@ public class Person {
 		System.out.println("sdf");
 		System.out.println("sdf");
 	}
+	public void aa(){
+		
+	}
 }
