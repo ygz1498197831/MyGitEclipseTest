@@ -5,7 +5,7 @@ public class Person {
 		System.out.println("123");
 		System.out.println("fziiyypppyyy");
 		System.out.println("sdf");
-		System.out.println("ooooooo");
+		System.out.println("ggggg");
 	}
 	public void aa(){
 		
